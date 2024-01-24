@@ -7,9 +7,8 @@ Data Scientist and R Developer
 7 years of experience in Survey Data Analysis, and Predictive Modelling. Currently a Quantitative Analyst using survey data to answer socio-economic questions.
 
 * 🌍  I'm based in Rabat, Morocco
-* 🖥️  See my portfolio at [Portfolio](http://myportfolio_page.com)
 * ✉️  You can contact me at [abdessamad.ambarek@gmail.com](mailto:abdessamad.ambarek@gmail.com)
-* 🚀  I'm currently working on [Inequalities Dashboard](http://myapp.com)
+* 🚀  I'm currently working on [Social Inequalities Dashboard]([http://myapp.com](https://aambarek.shinyapps.io/expenditures_inequality_dash/))
 * 🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills
