@@ -8,7 +8,7 @@ Data Scientist and R Developer
 
 * 🌍  I'm based in Rabat, Morocco
 * ✉️  You can contact me at [abdessamad.ambarek@gmail.com](mailto:abdessamad.ambarek@gmail.com)
-* 🚀  I'm currently working on [Social Inequalities Dashboard]([https://aambarek.shinyapps.io/expenditures_inequality_dash/])
+* 🚀  I'm currently working on [Social Inequalities Dashboard](https://aambarek.shinyapps.io/expenditures_inequality_dash/)
 * 🤝  I'm open to collaborating on Open Source Projects
 
 ### Skills
